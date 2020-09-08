@@ -1,2 +1,2 @@
 #-------starter自动装配---------
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.betacat.starter.config.DemoConfig
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.github.betacatcode.starter.config.DemoConfig

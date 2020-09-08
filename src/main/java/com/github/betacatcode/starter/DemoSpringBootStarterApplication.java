@@ -1,4 +1,4 @@
-package com.betacat.starter;
+package com.github.betacatcode.starter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

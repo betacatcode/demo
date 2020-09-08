@@ -1,7 +1,7 @@
-package com.betacat.starter.config;
+package com.github.betacatcode.starter.config;
 
-import com.betacat.starter.properties.DemoProperties;
-import com.betacat.starter.service.DemoService;
+import com.github.betacatcode.starter.properties.DemoProperties;
+import com.github.betacatcode.starter.service.DemoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

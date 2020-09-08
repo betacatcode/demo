@@ -1,4 +1,4 @@
-package com.betacat.starter.properties;
+package com.github.betacatcode.starter.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

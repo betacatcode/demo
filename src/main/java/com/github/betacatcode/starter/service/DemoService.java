@@ -1,4 +1,4 @@
-package com.betacat.starter.service;
+package com.github.betacatcode.starter.service;
 
 public class DemoService {
     public String sayWhat;
